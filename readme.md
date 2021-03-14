@@ -4,7 +4,7 @@
 [Course link](https://onebitcode.com/course/ruby-puro/)
 
 <br>
-<h3> 📌 Click on each folder to see my progress 🗂 <h3>
+<h3> 📌 Click on each folder to see my progress  🗂 <h3>
 <br>
 
 
