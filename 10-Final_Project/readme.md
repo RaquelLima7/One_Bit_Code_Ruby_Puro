@@ -22,6 +22,3 @@ The result of each translation (along with the original sentence) must be kept i
 
 <img src="mission1.png" alt="mission 1">
 
-<br>
-
-<img src="mission1.gif" alt="mission 1">
