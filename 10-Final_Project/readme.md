@@ -20,5 +20,5 @@ The result of each translation (along with the original sentence) must be kept i
 
 <br>
 
-<img src="mission1.png" alt="mission 1">
+<img src="mission1.png" alt="">
 
